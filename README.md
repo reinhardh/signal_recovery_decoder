@@ -3,7 +3,7 @@
 
 This repository provides code for reproducing the figures in the  paper:
 
-**``Signal recovery with with un-trained convolutional neural networks
+**``Signal recovery with un-trained convolutional neural networks
 ''**
 
 ## Installation and dependencies
@@ -22,7 +22,7 @@ The libraries can be installed via:
 conda install jupyter
 ```
 
-The MRI reconstruction experiments are based on the fastMRI dataset, which can be downloaded from here: 
+The MRI reconstruction experiments are based on the fastMRI dataset, which can be requested from here: 
 https://fastmri.med.nyu.edu/
 
 
@@ -30,11 +30,11 @@ https://fastmri.med.nyu.edu/
 
 ## Citation
 ```
-@article{heckel_deep_2018,
-    author    = {Reinhard Heckel and Paul Hand},
-    title     = {Deep Decoder: Concise Image Representations from Untrained Non-convolutional Networks},
+@article{_deep_2019,
+    author    = {},
+    title     = {Signal recovery with un-trained convolutional neural networks},
     journal   = {arXiv:?},
-    year      = {2018}
+    year      = {2019}
 }
 ```
 
